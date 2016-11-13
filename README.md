@@ -1,5 +1,6 @@
 string-lines
 ====
+[![Build Status](https://travis-ci.org/TakeshiTseng/string-lines.svg?branch=master)](https://travis-ci.org/TakeshiTseng/string-lines)
 
 Get lines from string
 

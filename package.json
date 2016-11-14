@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TakeshiTseng/string-lines.git"
+    "url": "git+ssh://git@github.com/UselessNodePackages/string-lines.git"
   },
   "keywords": [
     "string",
@@ -17,7 +17,7 @@
   "author": "Yi Tseng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TakeshiTseng/string-lines/issues"
+    "url": "https://github.com/UselessNodePackages/string-lines/issues"
   },
-  "homepage": "https://github.com/TakeshiTseng/string-lines#readme"
+  "homepage": "https://github.com/UselessNodePackages/string-lines#readme"
 }
